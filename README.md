@@ -1,2 +1,2 @@
-# ML-Study
+# ML_Study
 Code project
